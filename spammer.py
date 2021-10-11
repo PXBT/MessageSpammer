@@ -1,3 +1,5 @@
+print("Made by Vidhun Nagarajan, 2021")
+print("Thanks to SpookySec for original code.")
 import pip
 print("Installing required libraries (pynput)...")
 pip.main(["install", "pynput"])
@@ -14,8 +16,7 @@ input("Place your mouse cursor on the typing area and tap enter:")
 bar = Controller().position
 print("Position of mouse cursor has been logged.")
 print("MAKE SURE YOU DON'T MOVE THE MOUSE!")
-input("Press enter to continue:")
-print("The script will automatically close once completed.")
+input("Press enter to start spamming:")
 with open('words.txt', 'w') as f:
     f.write(input1)
 file = open("words.txt", "r")
@@ -28,4 +29,6 @@ for i in range(spamvalue):
         keyboard1.type(word)
         keyboard1.press(Key.enter)
         sleep(0.4)
+print("Script completed!")
+wait = input("Press enter to close the script:")
 
