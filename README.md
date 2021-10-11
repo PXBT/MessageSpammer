@@ -7,4 +7,4 @@ Prerequisites:
 
 
 #### Instructions:
-##### Download the file and run it, and then follow the on-screen instructions.
+##### Download the file named 'spammer.py" and run it, and then follow the on-screen instructions.
