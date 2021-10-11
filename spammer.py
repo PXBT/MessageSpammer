@@ -8,8 +8,8 @@ from pynput.keyboard import Key
 from time import sleep
 keyboard1 = keyboard.Controller()
 mouse = Controller()
-input1 = input("Enter what should be spammed:")
-spamvalue = int(input("Enter number of times to spam:"))
+input1 = input("Enter what word(s) should be spammed and tap enter:")
+spamvalue = int(input("Enter number of times to spam the word(s) you have entered:"))
 input("Place your mouse cursor on the typing area and tap enter:")
 bar = Controller().position
 print("Position of mouse cursor has been logged.")
