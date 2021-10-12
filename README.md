@@ -3,6 +3,7 @@ Instagram (desktop web version) / Discord / Whatsapp (desktop version) / Microso
 ## Please note that this script may work for other Messaging applications / websites as well, the ones listed above are the ones that tests have been conducted on.
 
 Windows:
+
 Prerequisites:
 ### None :)
 
@@ -11,6 +12,7 @@ Prerequisites:
 ##### Download the file named 'spammerX.X.exe", where X.X is the version number, and run it, and then follow the on-screen instructions.
 
 Linux/macOS/Non-Windows:
+
 Prerequisites:
 ### Make sure latest Python version is installed.
 
