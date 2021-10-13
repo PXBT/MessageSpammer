@@ -42,5 +42,5 @@ for i in range(spamvalue):
         keyboard1.press(Key.enter)
         sleep(spamtime)
 print("Script completed!")
-wait = input("Press any key to close the script:")
+wait = input("Press enter to close the script:")
 
