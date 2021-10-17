@@ -24,6 +24,6 @@ DO NOT MOVE THE MOUSE WHILE IT IS SPAMMING.
 
 Notes: 
 1. Time interval is measured in seconds.
-2. WhatsApp minimum time interval is 0.2, while for Microsoft Teams it is 0.4. This is to avoid any glitches.
+2. WhatsApp minimum time interval is 0.1, while for Microsoft Teams it is 0.4/0.3. This is to avoid any glitches.
 3. The non-windows script does in fact work on any Operating System, AS LONG AS the OS supports Python and the latest version of Python is installed.
 4. The non-windows script does work on Windows, but why use a Python script when you can use an .exe with no prior set-up?
