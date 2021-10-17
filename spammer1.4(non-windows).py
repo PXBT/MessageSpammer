@@ -1,7 +1,6 @@
 from time import sleep
 import sys
 import subprocess
-sleep(0.2)
 print("Made by Vidhun Nagarajan, 2021")
 sleep(0.2)
 print("Thanks to SpookySec for original code.")
