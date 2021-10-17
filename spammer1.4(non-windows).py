@@ -21,7 +21,7 @@ from pynput.keyboard import Key
 keyboard1 = keyboard.Controller()
 mouse = Controller()
 input1 = input("Enter what word(s) should be spammed and tap enter:")
-spamtime = float(input("Enter time interval (as decimal number) between each sent message (Minimum 0.4 for Microsoft Teams, Minimum 0.2 for WhatsApp):"))
+spamtime = float(input("Enter time interval (as decimal number, in seconds) between each sent message:"))
 spamvalue = int(input("Enter number of times to spam the word(s) you have entered:"))
 input("Place your mouse cursor on the typing area and tap enter:")
 bar = Controller().position
@@ -40,6 +40,6 @@ for i in range(spamvalue):
         keyboard1.type(word)
         keyboard1.press(Key.enter)
         sleep(spamtime)
-print("Script completed!")
+print("Spamming completed!")
 wait = input("Press enter to close the script:")
 
