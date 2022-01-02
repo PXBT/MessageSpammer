@@ -30,3 +30,6 @@ Notes:
 4. DO NOT MOVE THE MOUSE CURSOR WHILE IT IS SPAMMING.
 
 For suggestions/bugs, make an issue here: https://github.com/PXBT/MessageSpammer/issues
+
+
+MADE BY PXBT_OCT, THANKS TO SPOOKYSEC
