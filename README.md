@@ -2,17 +2,6 @@
 Instagram (desktop web version) / Discord / Whatsapp (desktop version) / Microsoft Teams message spammer.
 Please note that this script may work for other Messaging applications / websites as well, the ones listed above are the ones that tests have been conducted on.
 
-Windows:
-
-*Prerequisites*:
-None :)
-
-
-*Instructions*:
-Download the file named 'spammerX.X.exe', where 'X.X' is the version number, and run it, and then follow the on-screen instructions.
-
-*Linux/macOS/Non-Windows*:
-
 Prerequisites:
 Make sure latest Python AND Pynput version is installed.
 Install Pynput with 
